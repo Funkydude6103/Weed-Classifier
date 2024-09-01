@@ -1,0 +1,9 @@
+How to use WeedDetector.py
+Pre req:
+The model file is in the same directory
+all the Dependencies has been resolved
+1)Run The code
+2)Upload Any Image
+3)Select the region You want to Predict
+4)See the Class in the Console
+
